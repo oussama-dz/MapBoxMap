@@ -1,4 +1,4 @@
-package com.example.requestlocation.ui
+package com.example.mapbox_map.ui
 
 import android.Manifest
 import android.annotation.SuppressLint

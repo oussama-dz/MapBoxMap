@@ -1,4 +1,4 @@
-package com.example.requestlocation.ui.theme
+package com.example.mapbox_map.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

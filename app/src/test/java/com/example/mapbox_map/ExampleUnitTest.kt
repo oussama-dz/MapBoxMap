@@ -1,4 +1,4 @@
-package com.example.requestlocation
+package com.example.mapbox_map
 
 import org.junit.Test
 

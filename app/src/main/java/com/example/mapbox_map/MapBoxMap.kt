@@ -1,4 +1,4 @@
-package com.example.requestlocation
+package com.example.mapbox_map
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -10,6 +10,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.viewinterop.AndroidView
 import androidx.compose.ui.viewinterop.NoOpUpdate
 import androidx.core.graphics.drawable.toBitmap
+import com.example.requestlocation.R
 import com.mapbox.geojson.Point
 import com.mapbox.maps.CameraOptions
 import com.mapbox.maps.MapView

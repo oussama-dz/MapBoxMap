@@ -1,4 +1,4 @@
-package com.example.requestlocation.ui.theme
+package com.example.mapbox_map.ui.theme
 
 import android.app.Activity
 import android.os.Build
