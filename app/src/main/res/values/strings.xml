@@ -1,4 +1,4 @@
 <resources>
-    <string name="mapbox_access_token">pk.eyJ1Ijoib3Vzc2FtYWNoZTMxIiwiYSI6ImNsaHFvYzJuYzE0cGwza3BlMTFjMWRxeHcifQ.tlzz9BdjNSYMivsmV-3bfg</string>
+    <string name="mapbox_access_token"></string>
     <string name="app_name">RequestLocation</string>
 </resources>
